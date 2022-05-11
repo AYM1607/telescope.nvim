@@ -213,7 +213,7 @@ Many familiar mapping patterns are setup as defaults.
 | `<Esc>`        | Close telescope (in normal mode)                     |
 | `<Tab>`        | Toggle selection and move to next selection          |
 | `<S-Tab>`      | Toggle selection and move to prev selection          |
-| `<C-q>`        | Send all items not filtered to quickfixlist (qflist) |
+| `<C-Q>`        | Send all items not filtered to quickfixlist (qflist) |
 | `<M-q>`        | Send all selected items to qflist                    |
 
 
